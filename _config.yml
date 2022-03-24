@@ -1,0 +1,12 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - channels.md
+  - README.md
+  - dataset_description.md
+  - motion.md
+  - participants.md
+theme: jekyll-theme-minimal
